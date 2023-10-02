@@ -2,7 +2,7 @@
 
 (espaço reservado para textos futuros)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlavioGabrielB&show_icons=true&theme=neon)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlavioGabrielB&show_icons=true&theme=blue-green)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioGabrielB&theme=blue-green)
 
 
