@@ -1,8 +1,8 @@
-### Olá, sou Wenderson :)👋
+###  :)👋
 
 (espaço reservado para textos futuros)
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioGabrielBl&theme=neon)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioGabrielB&theme=neon)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlavioGabrielB&show_icons=true&theme=neon)
 
 ![just a colorful divisory](https://i.imgur.com/waxVImv.png)
