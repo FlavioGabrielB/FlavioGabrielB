@@ -5,7 +5,7 @@
 ![just a colorful divisory](https://i.imgur.com/waxVImv.png)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/OW6k0ykmVXK5f98hxT/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3RulGUDgo3ezurUYZU/giphy.gif" width="300"/>
 </div>
 
 ![just a colorful divisory](https://i.imgur.com/waxVImv.png)
