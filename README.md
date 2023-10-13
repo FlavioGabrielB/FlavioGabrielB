@@ -6,6 +6,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/FKGqMd25QoAY1J51LM/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/OW6k0ykmVXK5f98hxT/giphy.gif" width="300"/>
 </div>
 
 ![just a colorful divisory](https://i.imgur.com/waxVImv.png)
