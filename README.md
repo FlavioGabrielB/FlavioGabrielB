@@ -1,5 +1,5 @@
-| :trophy:                                    |               
-|--------------------------------------------------|---------------------------------------|
+            
+|--------------------------------------------------|
  | ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioGabrielB&theme=aura) |
 
 ![just a colorful divisory](https://i.imgur.com/waxVImv.png)
